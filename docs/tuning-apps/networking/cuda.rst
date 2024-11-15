@@ -633,8 +633,6 @@ When developing CUDA-aware Open MPI applications for OPA-based fabrics, the
 PSM2 transport is preferred and a CUDA-aware version of PSM2 is provided with
 all versions of the Cornelis Networks Omni-Path OPXS software suite.
 
-.. error:: TODO Are Intel/OPA references still correct?
-
 The PSM2 library provides a number of settings that will govern how it
 will interact with CUDA, including ``PSM2_CUDA`` and ``PSM2_GPUDIRECT``,
 which should be set in the environment before ``MPI_Init()`` is called. For
@@ -658,8 +656,6 @@ For more information see the *Cornelis Networks Performance Scaled Messaging 2
 (PSM2) Programmer's Guide* and the *Cornelis Networks Omni-Path Performance
 Tuning Guide*, which can be found in the `Cornelis Networks Customer Center
 <https://customercenter.cornelisnetworks.com/>`_.
-
-.. error:: TODO Are Intel/OPA references still correct?
 
 /////////////////////////////////////////////////////////////////////////
 
