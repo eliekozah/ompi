@@ -740,7 +740,7 @@ Open MPI version 2.0.0
   Thanks to Lisandro Dalcín for reporting.
 - Silence a compiler warning in PSM MTL.  Thanks to Adrian Reber for
   reporting this.
-- Properly detect Intel TrueScale and OmniPath devices in the ACTIVE
+- Properly detect Intel True Scale and OmniPath devices in the ACTIVE
   state.  Thanks to Durga Choudhury for reporting the issue.
 - Fix detection and use of Solaris Studio 12.5 (beta) compilers.
   Thanks to Paul Hargrove for reporting and debugging.
